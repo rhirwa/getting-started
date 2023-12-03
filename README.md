@@ -16,6 +16,6 @@ This graph shows correlations between numerical features in this dataset. No cor
 
 This graph informations about categorical features' contribution to the target feature.
 
-<img src="graphs/predicted_transports.png" width="400" heigh="200" alt="Predicted Transporting">
+<img src="graphs/predicted_transports.png" width="400" height="200" alt="Predicted Transporting">
 
 And this graph, shows how many passengers were predicted to be transported or not. 
