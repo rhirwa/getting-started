@@ -14,7 +14,7 @@ This graph shows correlations between numerical features in this dataset. No cor
 
 <img src="graphs/categorical_features_vs_target.png" width="400" height="200" alt="Categorical features vs target">
 
-This graph informations about categorical features' contribution to the target feature.
+This graph informations about categorical features' contribution to the target label.
 
 <img src="graphs/predicted_transports.png" width="400" height="200" alt="Predicted Transporting">
 
