@@ -7,6 +7,7 @@ This notebook features a typical data science process.
 From data exploration to training a simple model, this notebook is for 'getting-started' purposes.
 
 Some graphs generated; 
+
 ![Train features correlation](graphs/train_features_corr.png)
 This graph shows correlations between numerical features in this dataset. No correlations are above 0.5, so it's safe to keep all features.
 
