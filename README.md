@@ -8,7 +8,7 @@ From data exploration to training a simple model, this notebook is for 'getting-
 
 Some graphs generated; 
 
-<img src="graphs/train_features_corr.png", width="400" height="200" alt="Train features correlation">
+<img src="graphs/train_features_corr.png" width="400" height="200" alt="Train features correlation">
 
 This graph shows correlations between numerical features in this dataset. No correlations are above 0.5, so it's safe to keep all features.
 
