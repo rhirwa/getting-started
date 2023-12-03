@@ -8,14 +8,14 @@ From data exploration to training a simple model, this notebook is for 'getting-
 
 Some graphs generated; 
 
-![Train features correlation](graphs/train_features_corr.png)
+<img src="graphs/train_features_corr.png", width="400" height="200" alt="Train features correlation">
 
 This graph shows correlations between numerical features in this dataset. No correlations are above 0.5, so it's safe to keep all features.
 
-![Categorical features vs target](graphs/categorical_features_vs_target.png)
+<img src="graphs/categorical_features_vs_target.png" width="400" height="200" alt="Categorical features vs target">
 
 This graph informations about categorical features' contribution to the target feature.
 
-![Predicted Transports](graphs/predicted_transports.png)
+<img src="graphs/predicted_transports.png" width="400" heigh="200" alt="Predicted Transporting">
 
 And this graph, shows how many passengers were predicted to be transported or not. 
