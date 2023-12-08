@@ -1,6 +1,6 @@
 # Titanic Spaceship with Logistic Regression
 
-This is a getting started project. 
+This is a getting-started project. 
 
 This notebook features a typical data science process.
 
